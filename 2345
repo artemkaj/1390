@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+<TITLE> УПЛ Тур 14 </TITLE><meta charset='UTF-8';
+</HEAD> 
+<style>
+body {
+color:green;
+font-family:consolas;
+}
+</style>
+<BODY>
+<h1 align = 'center'> <b> Динамо-Шахтар </b> </h1>
+<p align = 'left'> День матчу <br>
+<big> <b> Динамо-Шахтар.</b> </big> <br>
+УПЛ Тур 14.<br>
+Час матчу 17:00.<br>
+Стадіон: ОСК Металіст (Харків).<br>
+Телеканал: Футбол 2.</p>
+<img src = '21.jpg' >
+</BODY>
+</HTML>
+
